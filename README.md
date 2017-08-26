@@ -1,2 +1,2 @@
 # webml
-Gui-Based Machine Learning model builder
+Gui-Based Machine Learning Model Builder
